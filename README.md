@@ -10,7 +10,6 @@ Module with utilities for supervisor:
 
 Download the appropriate realease files:
 - [malvarSupervisor-rt.jar](https://github.com/MalvarControls/malvarSupervisor/releases);
-- [malvarSupervisor-wb.jar](https://github.com/MalvarControls/malvarSupervisor/releases);
 - [malvarSupervisor-ux.jar](https://github.com/MalvarControls/malvarSupervisor/releases);
 
 Paste them into the modules folder inside your Niagara installation directory ```C:\Niagara\Niagara-4.x.x.x\modules```.
